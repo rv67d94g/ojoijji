@@ -41,6 +41,8 @@ LaTeX学习起来比较困难，源代码可读性也不强，但正因如此可
 
 最近的一则新闻报道了因为美国拖拉机品牌John Deere在拖拉机加上了计算机模块，有DRM授权限制，如果拖拉机坏了，农民不能自己修理，否则就是违法的事情[4]。脱去了版权保护的漂亮外衣，DRM就是如此滑稽可笑。
 
+自由软件从根本上阻止了DRM。因为源代码是开发的，并且任何人都可以修改它，任何DRM措施都可以被移除。
+
 1. https://web.archive.org/web/20091122154452/http://www.pcpro.co.uk/news/245859/q-a-microsoft-defends-return-to-drm
 2. http://news2.jschina.com.cn/system/2012/09/06/014432695.shtml
 3. http://news.cnet.com/2100-1016-5197411.html
