@@ -1,3 +1,4 @@
+
 <html><head><meta http-equiv='Content-Language' content='zh-cn'><meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
 <title>马克思 恩格斯：共产党宣言（1848年）</title>
 <link rel=stylesheet href='../MIA01.css' type='text/css'>
