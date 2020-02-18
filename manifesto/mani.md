@@ -1,4 +1,4 @@
-| [中文马克思主义文库](https://www.marxists.org/chinese/index.html) -> [马克思](https://www.marxists.org/chinese/marx/index.htm)　[恩格斯](https://www.marxists.org/chinese/engels/index.htm)
+[中文马克思主义文库](https://www.marxists.org/chinese/index.html) -> [马克思](https://www.marxists.org/chinese/marx/index.htm)　[恩格斯](https://www.marxists.org/chinese/engels/index.htm)
 
 * * *
 
@@ -8,7 +8,7 @@
 
 （1848年）
 
-| · [1872年德文版序言](https://www.marxists.org/chinese/marx/01.htm#1)
+· [1872年德文版序言](https://www.marxists.org/chinese/marx/01.htm#1)
 · [1882年俄文版序言](https://www.marxists.org/chinese/marx/01.htm#2)
 · [1883年德文版序言](https://www.marxists.org/chinese/marx/01.htm#3)
 · [1888年英文版序言](https://www.marxists.org/chinese/marx/01.htm#4)
@@ -19,7 +19,6 @@
 [二、无产者和共产党人](https://www.marxists.org/chinese/marx/01.htm#9)
 [三、社会主义的和共产主义的文献](https://www.marxists.org/chinese/marx/01.htm#10)
 [四、共产党人对各种反对党派的态度](https://www.marxists.org/chinese/marx/01.htm#11)
- |
 
 * * *
 
