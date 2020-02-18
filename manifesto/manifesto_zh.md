@@ -1,6 +1,3 @@
-
-<title>马克思 恩格斯：共产党宣言（1848年）</title>
-<link rel=stylesheet href='../MIA01.css' type='text/css'>
 <body><tr><td style="line-height: 200%"><A style='text-decoration: none' href='../index.html'>中文马克思主义文库</A> -&gt; <a style='text-decoration: none' href='index.htm'>马克思</a>　<a style='text-decoration: none' href='../engels/index.htm'>恩格斯</a><hr color='#808080' size='1'>
 <p class='title0'>共产党宣言</p>
 <p class='author'>马克思 恩格斯</p>
