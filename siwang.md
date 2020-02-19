@@ -1,13 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-</head>
-<body>
 <h1 id="武汉肺炎50天全体中国人都在承受媒体死亡的代价大家">武汉肺炎50天，全体中国人都在承受媒体死亡的代价｜大家</h1>
 <p>Original 陈季冰 大家-腾讯新闻 <em>Today</em></p>
 <div class="figure">
@@ -197,5 +187,3 @@
 <img src="https://upload-images.jianshu.io/upload_images/8076033-5554f6ab474fd1d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" />
 
 </div>
-</body>
-</html>
