@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt">
+  <head>
+    <meta content="c6e18983-83c7-4fa8-b495-22e298a3fb42" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (0.7.40)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Manifesto of the Communist Party</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="68fd26cd-e1d9-443e-8f3a-8840b538fabe" playOrder="1">
+      <navLabel>
+        <text>The 1872 German Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_1"/>
+    </navPoint>
+    <navPoint id="94f59fa3-6ed9-4ee5-a866-e27a7ee1fe87" playOrder="2">
+      <navLabel>
+        <text>The 1882 Russian Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_2"/>
+    </navPoint>
+    <navPoint id="ddaaeabe-3a94-4dba-aa56-8c6151d22e65" playOrder="3">
+      <navLabel>
+        <text>The 1883 German Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_3"/>
+    </navPoint>
+    <navPoint id="af9ea079-8923-4c7d-a716-a14e9aa4730d" playOrder="4">
+      <navLabel>
+        <text>The 1888 English Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_4"/>
+    </navPoint>
+    <navPoint id="92f9ae72-9fb9-4425-93aa-eef1545b38c5" playOrder="5">
+      <navLabel>
+        <text>The 1890 German Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_5"/>
+    </navPoint>
+    <navPoint id="ae027617-8b16-4a21-b649-d9529cef4939" playOrder="6">
+      <navLabel>
+        <text>The 1892 Polish Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_6"/>
+    </navPoint>
+    <navPoint id="323adb27-4f99-4dde-86ca-6d411d65aabe" playOrder="7">
+      <navLabel>
+        <text>The 1893 Italian Edition</text>
+      </navLabel>
+      <content src="OPS/preface.htm#calibre_toc_7"/>
+    </navPoint>
+    <navPoint id="edc46c0f-fa90-4e8f-8043-f4698244492f" playOrder="8">
+      <navLabel>
+        <text>Preamble</text>
+      </navLabel>
+      <content src="OPS/ch01.htm#calibre_toc_1"/>
+    </navPoint>
+    <navPoint id="25af3579-8fc1-4c0c-bdd1-02d12ed09845" playOrder="9">
+      <navLabel>
+        <text>Chapter I. Bourgeois and Proletarians(1)</text>
+      </navLabel>
+      <content src="OPS/ch01.htm#calibre_toc_2"/>
+    </navPoint>
+    <navPoint id="45a6c7ec-2ca8-480a-8789-a6e01f26b08d" playOrder="10">
+      <navLabel>
+        <text>Chapter II. Proletarians and Communists</text>
+      </navLabel>
+      <content src="OPS/ch02.htm"/>
+    </navPoint>
+    <navPoint id="3f2e0475-7c7d-4a5a-945f-8244131a4956" playOrder="11">
+      <navLabel>
+        <text>Chapter III. Socialist and Communist Literature</text>
+      </navLabel>
+      <content src="OPS/ch03.htm"/>
+      <navPoint id="7c655b58-37ac-4c95-b974-fc094eb0cab7" playOrder="12">
+        <navLabel>
+          <text>1. Reactionary Socialism</text>
+        </navLabel>
+        <content src="OPS/ch03.htm#calibre_toc_2"/>
+        <navPoint id="ffde7685-d819-46f1-ae64-8d43643ad915" playOrder="13">
+          <navLabel>
+            <text>A. Feudal Socialism</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_5"/>
+        </navPoint>
+        <navPoint id="5ba06a5a-0bbb-44f3-8e17-1df06fde4fc0" playOrder="14">
+          <navLabel>
+            <text>B. Petty-Bourgeois Socialism</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_6"/>
+        </navPoint>
+        <navPoint id="da304c9a-1bf6-425e-8da5-e7bf2d4368b5" playOrder="15">
+          <navLabel>
+            <text>C. German or “True” Socialism</text>
+          </navLabel>
+          <content src="OPS/ch03.htm#calibre_toc_7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="42ee8cec-217f-45e8-8f9c-6729f3e01078" playOrder="16">
+        <navLabel>
+          <text>2. Conservative or Bourgeois Socialism</text>
+        </navLabel>
+        <content src="OPS/ch03.htm#calibre_toc_3"/>
+      </navPoint>
+      <navPoint id="da1285d7-41fc-4956-8747-35a0b1e5e81f" playOrder="17">
+        <navLabel>
+          <text>3. Critical-Utopian Socialism and Communism</text>
+        </navLabel>
+        <content src="OPS/ch03.htm#calibre_toc_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="140ae73b-101b-4a1f-825e-9a33e3b725f6" playOrder="18">
+      <navLabel>
+        <text>Chapter IV. Position of the Communists in Relation to the Various Existing Opposition Parties</text>
+      </navLabel>
+      <content src="OPS/ch04.htm"/>
+      <navPoint id="871d9318-fa73-482f-af3f-97d2bd005449" playOrder="19">
+        <navLabel>
+          <text>Working Men of All Countries, Unite!</text>
+        </navLabel>
+        <content src="OPS/ch04.htm#calibre_toc_2"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
