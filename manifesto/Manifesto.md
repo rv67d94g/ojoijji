@@ -1,3 +1,7 @@
+---
+generator: pandoc
+---
+
 Manifesto of the Communist Party
 ================================
 
@@ -201,8 +205,8 @@ mark the only revisions to his social and historical vision made during
 his lifetime as a result of the development of the working class
 movement itself, clarifying some points and making others more concrete.
 
-Preface to The 1872 German Edition 
------------------------------------
+Preface to The 1872 German Edition
+----------------------------------
 
 The Communist League, an international association of workers, which
 could of course be only a secret one, under conditions obtaining at the
@@ -220,8 +224,9 @@ appeared in Paris shortly before the June insurrection of 1848, and
 recently in Le Socialiste of New York. A new translation is in the
 course of preparation. A Polish version appeared in London shortly after
 it was first published in Germany. A Russian translation was published
-in Geneva in the sixties[^1]<span id="eb1" class="anchor"></span>. Into
-Danish, too, it was translated shortly after its appearance.
+in Geneva in the sixties[^1^](#fn1){#fnref1 .footnoteRef}<span id="eb1"
+class="anchor"></span>. Into Danish, too, it was translated shortly
+after its appearance.
 
 However much that state of things may have altered during the last
 twenty-five years, the general principles laid down in the Manifesto
@@ -259,8 +264,8 @@ this reprint was too unexpected to leave us time for that.
 Karl Marx & Frederick Engels\
 June 24, 1872, London
 
-Preface to The 1882 Russian Edition 
-------------------------------------
+Preface to The 1882 Russian Edition
+-----------------------------------
 
 The first Russian edition of the Manifesto of the Communist Party,
 translated by Bakunin, was published early in the ‘sixties by the
@@ -298,8 +303,9 @@ And now Russia! During the Revolution of 1848-9, not only the European
 princes, but the European bourgeois as well, found their only salvation
 from the proletariat just beginning to awaken in Russian intervention.
 The Tsar was proclaimed the chief of European reaction. Today, he is a
-prisoner of war of the revolution in Gatchina[^2], and Russia forms the
-vanguard of revolutionary action in Europe.
+prisoner of war of the revolution in Gatchina[^2^](#fn2){#fnref2
+.footnoteRef}, and Russia forms the vanguard of revolutionary action in
+Europe.
 
 The Communist Manifesto had, as its object, the proclamation of the
 inevitable impending dissolution of modern bourgeois property. But in
@@ -323,8 +329,8 @@ January 21, 1882, London
 <span id="1883" class="anchor"><span id="preface-1883" class="anchor"></span></span>
 ------------------------------------------------------------------------------------
 
-Preface to The 1883 German Edition 
------------------------------------
+Preface to The 1883 German Edition
+----------------------------------
 
 The preface to the present edition I must, alas, sign alone. Marx, the
 man to whom the whole working class of Europe and America owes more than
@@ -347,7 +353,7 @@ proletariat) can no longer emancipate itself from the class which
 exploits and oppresses it (the bourgeoisie), without at the same time
 forever freeing the whole of society from exploitation, oppression,
 class struggles – this basic thought belongs solely and exclusively to
-Marx.[^3]
+Marx.[^3^](#fn3){#fnref3 .footnoteRef}
 
 I have already stated this many times; but precisely now is it necessary
 that it also stand in front of the Manifesto itself.
@@ -355,8 +361,8 @@ that it also stand in front of the Manifesto itself.
 Frederick Engels\
 June 28, 1883, London
 
-Preface to The 1888 English Edition 
-------------------------------------
+Preface to The 1888 English Edition
+-----------------------------------
 
 The Manifesto was published as the platform of the Communist League, a
 working men’ s association, first exclusively German, later on
@@ -398,7 +404,7 @@ America, could not at once proclaim the principles laid down in the
 Manifesto. The International was bound to have a programme broad enough
 to be acceptable to the English trade unions, to the followers of
 Proudhon in France, Belgium, Italy, and Spain, and to the Lassalleans in
-Germany.[^4]
+Germany.[^4^](#fn4){#fnref4 .footnoteRef}
 
 Marx, who drew up this programme to the satisfaction of all parties,
 entirely trusted to the intellectual development of the working class,
@@ -535,8 +541,8 @@ January 30, 1888, London
 <span id="1890" class="anchor"><span id="preface-1890" class="anchor"></span></span>
 ------------------------------------------------------------------------------------
 
-Preface to The 1890 German Edition 
------------------------------------
+Preface to The 1890 German Edition
+----------------------------------
 
 Since \[the first German preface of 1883\] was written, a new German
 edition of the Manifesto has again become necessary, and much has also
@@ -661,15 +667,16 @@ Working Men’ s Association of glorious memory. True, the International
 itself lived only nine years. But that the eternal union of the
 proletarians of all countries created by it is still alive and lives
 stronger than ever, there is no better witness than this day. Because
-today<span id="eb3" class="anchor"></span>[^5], as I write these lines,
-the European and American proletariat is reviewing its fighting forces,
-mobilized for the first time, mobilized as *one* army, under *one* flag,
-for *one* immediate aim: the standard eight-hour working day to be
-established by legal enactment, as proclaimed by the Geneva Congress of
-the International in 1866, and again by the Paris Workers’ Congress of
-1889. And today’ s spectacle will open the eyes of the capitalists and
-landlords of all countries to the fact that today the proletarians of
-all countries are united indeed.
+today<span id="eb3" class="anchor"></span>[^5^](#fn5){#fnref5
+.footnoteRef}, as I write these lines, the European and American
+proletariat is reviewing its fighting forces, mobilized for the first
+time, mobilized as *one* army, under *one* flag, for *one* immediate
+aim: the standard eight-hour working day to be established by legal
+enactment, as proclaimed by the Geneva Congress of the International in
+1866, and again by the Paris Workers’ Congress of 1889. And today’ s
+spectacle will open the eyes of the capitalists and landlords of all
+countries to the fact that today the proletarians of all countries are
+united indeed.
 
 If only Marx were still by my side to see this with his own eyes!
 
@@ -679,8 +686,8 @@ May 1, 1890, London
 <span id="1892" class="anchor"><span id="preface-1892" class="anchor"></span></span>
 ------------------------------------------------------------------------------------
 
-Preface to The 1892 Polish Edition 
------------------------------------
+Preface to The 1892 Polish Edition
+----------------------------------
 
 The fact that a new Polish edition of the Communist Manifesto has become
 necessary gives rise to various thoughts.
@@ -738,8 +745,8 @@ as the Polish workers themselves.
 F. Engels\
 London, February 10, 1892
 
-Preface to The 1893 Italian Edition 
-------------------------------------
+Preface to The 1893 Italian Edition
+-----------------------------------
 
 Publication of the Manifesto of the Communist Party coincided, one may
 say, with March 18, 1848, the day of the revolution in Milan and Berlin,
@@ -832,20 +839,20 @@ London and sketched the following manifesto, to be published in the
 English, French, German, Italian, Flemish and Danish languages. <span
 id="007" class="anchor"></span>
 
-<span id="008" class="anchor"><span id="_Toc262415901" class="anchor"></span></span>I. Bourgeois and Proletarians[^6]
----------------------------------------------------------------------------------------------------------------------
+<span id="008" class="anchor"><span id="_Toc262415901" class="anchor"></span></span>I. Bourgeois and Proletarians[^6^](#fn6){#fnref6 .footnoteRef} {#i.-bourgeois-and-proletarians}
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 The history of all hitherto existing society<span id="ab2"
-class="anchor"></span>[^7] is the history of class struggles. <span
-id="009" class="anchor"></span>
+class="anchor"></span>[^7^](#fn7){#fnref7 .footnoteRef} is the history
+of class struggles. <span id="009" class="anchor"></span>
 
 Freeman and slave, patrician and plebeian, lord and serf,
-guild-master<span id="ab3" class="anchor"></span>[^8] and journeyman, in
-a word, oppressor and oppressed, stood in constant opposition to one
-another, carried on an uninterrupted, now hidden, now open fight, a
-fight that each time ended, either in a revolutionary reconstitution of
-society at large, or in the common ruin of the contending classes. <span
-id="010" class="anchor"></span>
+guild-master<span id="ab3" class="anchor"></span>[^8^](#fn8){#fnref8
+.footnoteRef} and journeyman, in a word, oppressor and oppressed, stood
+in constant opposition to one another, carried on an uninterrupted, now
+hidden, now open fight, a fight that each time ended, either in a
+revolutionary reconstitution of society at large, or in the common ruin
+of the contending classes. <span id="010" class="anchor"></span>
 
 In the earlier epochs of history, we find almost everywhere a
 complicated arrangement of society into various orders, a manifold
@@ -909,16 +916,17 @@ production and of exchange. <span id="019" class="anchor"></span>
 Each step in the development of the bourgeoisie was accompanied by a
 corresponding political advance of that class. An oppressed class under
 the sway of the feudal nobility, an armed and self-governing association
-in the medieval commune[^9]: here independent urban republic (as in
-Italy and Germany); there taxable “third estate” of the monarchy (as in
-France); afterwards, in the period of manufacturing proper, serving
-either the semi-feudal or the absolute monarchy as a counterpoise
-against the nobility, and, in fact, cornerstone of the great monarchies
-in general, the bourgeoisie has at last, since the establishment of
-Modern Industry and of the world market, conquered for itself, in the
-modern representative State, exclusive political sway. The executive of
-the modern state is but a committee for managing the common affairs of
-the whole bourgeoisie. <span id="020" class="anchor"></span>
+in the medieval commune[^9^](#fn9){#fnref9 .footnoteRef}: here
+independent urban republic (as in Italy and Germany); there taxable
+“third estate” of the monarchy (as in France); afterwards, in the period
+of manufacturing proper, serving either the semi-feudal or the absolute
+monarchy as a counterpoise against the nobility, and, in fact,
+cornerstone of the great monarchies in general, the bourgeoisie has at
+last, since the establishment of Modern Industry and of the world
+market, conquered for itself, in the modern representative State,
+exclusive political sway. The executive of the modern state is but a
+committee for managing the common affairs of the whole bourgeoisie.
+<span id="020" class="anchor"></span>
 
 The bourgeoisie, historically, has played a most revolutionary part.
 <span id="021" class="anchor"></span>
@@ -1784,18 +1792,19 @@ of each is the condition for the free development of all.
 III. Socialist and Communist Literature
 ---------------------------------------
 
-### <span id="a" class="anchor"><span id="136" class="anchor"><span id="_Toc262415904" class="anchor"></span></span></span>1. Reactionary Socialism  {#reactionary-socialism .H3}
+### <span id="a" class="anchor"><span id="136" class="anchor"><span id="_Toc262415904" class="anchor"></span></span></span>1. Reactionary Socialism {#reactionary-socialism .H3}
 
-#### A. Feudal Socialism 
+#### A. Feudal Socialism
 
 Owing to their historical position, it became the vocation of the
 aristocracies of France and England to write pamphlets against modern
 bourgeois society. In the French Revolution of July 1830, and in the
-English reform agitation[^10], these aristocracies again succumbed to
-the hateful upstart. Thenceforth, a serious political struggle was
-altogether out of the question. A literary battle alone remained
-possible. But even in the domain of literature the old cries of the
-restoration period had become impossible.[^11] <span id="137"
+English reform agitation[^10^](#fn10){#fnref10 .footnoteRef}, these
+aristocracies again succumbed to the hateful upstart. Thenceforth, a
+serious political struggle was altogether out of the question. A
+literary battle alone remained possible. But even in the domain of
+literature the old cries of the restoration period had become
+impossible.[^11^](#fn11){#fnref11 .footnoteRef} <span id="137"
 class="anchor"></span>
 
 In order to arouse sympathy, the aristocracy was obliged to lose sight,
@@ -1843,7 +1852,8 @@ In political practice, therefore, they join in all coercive measures
 against the working class; and in ordinary life, despite their
 high-falutin phrases, they stoop to pick up the golden apples dropped
 from the tree of industry, and to barter truth, love, and honour, for
-traffic in wool, beetroot-sugar, and potato spirits.[^12] <span id="145"
+traffic in wool, beetroot-sugar, and potato
+spirits.[^12^](#fn12){#fnref12 .footnoteRef} <span id="145"
 class="anchor"></span>
 
 As the parson has ever gone hand in hand with the landlord, so has
@@ -1857,7 +1867,7 @@ charity and poverty, celibacy and mortification of the flesh, monastic
 life and Mother Church? Christian Socialism is but the holy water with
 which the priest consecrates the heart-burnings of the aristocrat.
 
-#### <span id="147" class="anchor"><span id="_Toc262415906" class="anchor"></span></span>B. Petty-Bourgeois Socialism 
+#### <span id="147" class="anchor"><span id="_Toc262415906" class="anchor"></span></span>B. Petty-Bourgeois Socialism
 
 The feudal aristocracy was not the only class that was ruined by the
 bourgeoisie, not the only class whose conditions of existence pined and
@@ -1914,7 +1924,7 @@ Ultimately, when stubborn historical facts had dispersed all
 intoxicating effects of self-deception, this form of Socialism ended in
 a miserable fit of the blues.
 
-#### <span id="154" class="anchor"><span id="_Toc262415907" class="anchor"></span></span>C. German or “True” Socialism 
+#### <span id="154" class="anchor"><span id="_Toc262415907" class="anchor"></span></span>C. German or “True” Socialism
 
 The Socialist and Communist literature of France, a literature that
 originated under the pressure of a bourgeoisie in power, and that was
@@ -2035,9 +2045,10 @@ of directly opposing the “brutally destructive” tendency of Communism,
 and of proclaiming its supreme and impartial contempt of all class
 struggles. With very few exceptions, all the so-called Socialist and
 Communist publications that now (1847) circulate in Germany belong to
-the domain of this foul and enervating literature.[^13]
+the domain of this foul and enervating literature.[^13^](#fn13){#fnref13
+.footnoteRef}
 
-### <span id="b" class="anchor"><span id="170" class="anchor"><span id="_Toc262415908" class="anchor"></span></span></span>2. Conservative or Bourgeois Socialism  {#conservative-or-bourgeois-socialism .H3}
+### <span id="b" class="anchor"><span id="170" class="anchor"><span id="_Toc262415908" class="anchor"></span></span></span>2. Conservative or Bourgeois Socialism {#conservative-or-bourgeois-socialism .H3}
 
 A part of the bourgeoisie is desirous of redressing social grievances in
 order to secure the continued existence of bourgeois society. <span
@@ -2091,7 +2102,7 @@ of bourgeois socialism. <span id="177" class="anchor"></span>
 It is summed up in the phrase: the bourgeois is a bourgeois – for the
 benefit of the working class.
 
-### <span id="c" class="anchor"><span id="178" class="anchor"><span id="_Toc262415909" class="anchor"></span></span></span>3. Critical-Utopian Socialism and Communism  {#critical-utopian-socialism-and-communism .H3}
+### <span id="c" class="anchor"><span id="178" class="anchor"><span id="_Toc262415909" class="anchor"></span></span></span>3. Critical-Utopian Socialism and Communism {#critical-utopian-socialism-and-communism .H3}
 
 We do not here refer to that literature which, in every great modern
 revolution, has always given voice to the demands of the proletariat,
@@ -2190,13 +2201,14 @@ endeavour, and that consistently, to deaden the class struggle and to
 reconcile the class antagonisms. They still dream of experimental
 realisation of their social Utopias, of founding isolated
 “phalansteres”, of establishing “Home Colonies”, or setting up a “Little
-Icaria”[^14] – duodecimo editions of the New Jerusalem – and to realise
-all these castles in the air, they are compelled to appeal to the
-feelings and purses of the bourgeois. By degrees, they sink into the
-category of the reactionary \[or\] conservative Socialists depicted
-above, differing from these only by more systematic pedantry, and by
-their fanatical and superstitious belief in the miraculous effects of
-their social science. <span id="190" class="anchor"></span>
+Icaria”[^14^](#fn14){#fnref14 .footnoteRef} – duodecimo editions of the
+New Jerusalem – and to realise all these castles in the air, they are
+compelled to appeal to the feelings and purses of the bourgeois. By
+degrees, they sink into the category of the reactionary \[or\]
+conservative Socialists depicted above, differing from these only by
+more systematic pedantry, and by their fanatical and superstitious
+belief in the miraculous effects of their social science. <span id="190"
+class="anchor"></span>
 
 They, therefore, violently oppose all political action on the part of
 the working class; such action, according to them, can only result from
@@ -2217,10 +2229,11 @@ The Communists fight for the attainment of the immediate aims, for the
 enforcement of the momentary interests of the working class; but in the
 movement of the present, they also represent and take care of the future
 of that movement. In France, the Communists ally with the
-Social-Democrats[^15] against the conservative and radical bourgeoisie,
-reserving, however, the right to take up a critical position in regard
-to phases and illusions traditionally handed down from the great
-Revolution. <span id="202" class="anchor"></span>
+Social-Democrats[^15^](#fn15){#fnref15 .footnoteRef} against the
+conservative and radical bourgeoisie, reserving, however, the right to
+take up a critical position in regard to phases and illusions
+traditionally handed down from the great Revolution. <span id="202"
+class="anchor"></span>
 
 In Switzerland, they support the Radicals, without losing sight of the
 fact that this party consists of antagonistic elements, partly of
@@ -2273,12 +2286,13 @@ of all existing social conditions. Let the ruling classes tremble at a
 Communistic revolution. The proletarians have nothing to lose but their
 chains. They have a world to win.
 
-**Working Men of All Countries, Unite!**[^16]
+**Working Men of All Countries, Unite!**[^16^](#fn16){#fnref16
+.footnoteRef}
 
 <span id="211" class="anchor"></span>
 
-Letter from Engels to Marx, 24 November 1847[^17]
--------------------------------------------------
+Letter from Engels to Marx, 24 November 1847[^17^](#fn17){#fnref17 .footnoteRef} {#letter-from-engels-to-marx-24-november-1847}
+--------------------------------------------------------------------------------
 
 #### Paris, 23-24 November 1847 {#paris-23-24-november-1847 .Subheading}
 
@@ -2311,8 +2325,8 @@ save for a few quite minor points, I think I can get it through in such
 a form that at least there is nothing in it which conflicts with our
 views. ...
 
-Draft of a Communist Confession of Faith[^18] 
-----------------------------------------------
+Draft of a Communist Confession of Faith[^18^](#fn18){#fnref18 .footnoteRef} {#draft-of-a-communist-confession-of-faith}
+----------------------------------------------------------------------------
 
 This document is the draft programme discussed at the First Congress of
 the Communist League in London on June 2-9, 1847.
@@ -2382,7 +2396,7 @@ formulations of some of the answers as they were.
 
 #### A Communist Confession of Faith {#a-communist-confession-of-faith .Subheading}
 
-**Question 1***: Are you a Communist? *
+**Question 1***: Are you a Communist?*
 
 **Answer**: Yes.
 
@@ -2645,8 +2659,8 @@ President: *Karl Schill* \[Alias of Karl Schapper in the League of the
 Just\]\
 London, June 9, 1847
 
-The Principles of Communism[^19]
---------------------------------
+The Principles of Communism[^19^](#fn19){#fnref19 .footnoteRef} {#the-principles-of-communism}
+---------------------------------------------------------------
 
 <span id="1.1" class="anchor"></span>In 1847 Engels wrote two draft
 programmes for the Communist League in the form of a catechism, one in
@@ -2714,7 +2728,8 @@ sale of its labor and does not draw profit from any kind of capital;
 whose weal and woe, whose life and death, whose sole existence depends
 on the demand for labor – hence, on the changing state of business, on
 the vagaries of unbridled competition. The proletariat, or the class of
-proletarians, is, in a word, the working class of the 19th century.[^20]
+proletarians, is, in a word, the working class of the 19th
+century.[^20^](#fn20){#fnref20 .footnoteRef}
 
 #### <span id="03" class="anchor"><span id="_Toc262395043" class="anchor"></span></span>– 3 –\
 Proletarians, then, have not always existed? {#proletarians-then-have-not-always-existed .Subheading}
@@ -2901,7 +2916,7 @@ handicraftsman therefore frees himself by becoming either bourgeois or
 entering the middle class in general, or becoming a proletarian because
 of competition (as is now more often the case). In which case he can
 free himself by joining the proletarian movement, i.e., the more or less
-communist movement.[^21]
+communist movement.[^21^](#fn21){#fnref21 .footnoteRef}
 
 #### – 10 –\
 In what way do proletarians differ from manufacturing workers? {#in-what-way-do-proletarians-differ-from-manufacturing-workers .Subheading}
@@ -3428,7 +3443,8 @@ The nationalities of the peoples associating themselves in accordance
 with the principle of community will be compelled to mingle with each
 other as a result of this association and thereby to dissolve
 themselves, just as the various estate and class distinctions must
-disappear through the abolition of their basis, private property.[^22]
+disappear through the abolition of their basis, private
+property.[^22^](#fn22){#fnref22 .footnoteRef}
 
 #### <span id="23" class="anchor"><span id="ne1" class="anchor"><span id="_Toc262395063" class="anchor"></span></span></span>– 23 –\
 What will be its attitude to existing religions? {#what-will-be-its-attitude-to-existing-religions .Subheading}
@@ -3436,14 +3452,15 @@ What will be its attitude to existing religions? {#what-will-be-its-attitude-to-
 All religions so far have been the expression of historical stages of
 development of individual peoples or groups of peoples. But communism is
 the stage of historical development which makes all existing religions
-superfluous and brings about their disappearance.[^23]
+superfluous and brings about their disappearance.[^23^](#fn23){#fnref23
+.footnoteRef}
 
 #### <span id="24" class="anchor"><span id="_Toc262395064" class="anchor"></span></span>– 24 –\
 How do communists differ from socialists? {#how-do-communists-differ-from-socialists .Subheading}
 
 The so-called socialists are divided into three categories.
 
-#### \[ Reactionary Socialists: \]  {#reactionary-socialists .Subheading}
+#### \[ Reactionary Socialists: \] {#reactionary-socialists .Subheading}
 
 The first category consists of adherents of a feudal and patriarchal
 society which has already been destroyed, and is still daily being
@@ -3471,7 +3488,7 @@ the prospect of liberation through a communist revolution.
 these reactionary socialists show their true colors by immediately
 making common cause with the bourgeoisie against the proletarians.
 
-#### \[ Bourgeois Socialists: \]  {#bourgeois-socialists .Subheading}
+#### \[ Bourgeois Socialists: \] {#bourgeois-socialists .Subheading}
 
 The second category consists of adherents of present-day society who
 have been frightened for its future by the evils to which it necessarily
@@ -3487,7 +3504,7 @@ Communists must unremittingly struggle against these bourgeois
 socialists because they work for the enemies of communists and protect
 the society which communists aim to overthrow.
 
-#### \[ Democratic Socialists: \]  {#democratic-socialists .Subheading}
+#### \[ Democratic Socialists: \] {#democratic-socialists .Subheading}
 
 Finally, the third category consists of democratic socialists who favor
 some of the same measures the communists advocate, as described in
@@ -3524,14 +3541,16 @@ greater the more closely the socialistic measures they champion approach
 the aims of the communists – that is, the more clearly and definitely
 they represent the interests of the proletariat and the more they depend
 on the proletariat for support. In England, for example, the
-working-class Chartists[^24] are infinitely closer to the communists
-than the democratic petty bourgeoisie or the so-called Radicals.
+working-class Chartists[^24^](#fn24){#fnref24 .footnoteRef} are
+infinitely closer to the communists than the democratic petty
+bourgeoisie or the so-called Radicals.
 
 <span id="6.1" class="anchor"></span>In America, where a democratic
 constitution has already been established, the communists must make the
 common cause with the party which will turn this constitution against
 the bourgeoisie and use it in the interests of the proletariat – that
-is, with the agrarian National Reformers.[^25]
+is, with the agrarian National Reformers.[^25^](#fn25){#fnref25
+.footnoteRef}
 
 In Switzerland, the Radicals, though a very mixed party, are the only
 group with which the communists can co-operate, and, among these
@@ -3770,7 +3789,7 @@ right, to render themselves masters of their own destinies, by seizing
 upon the governmental power.”
 
 **But the working class cannot simply lay hold of the ready-made state
-machinery, and wield it for its own purposes. **
+machinery, and wield it for its own purposes.**
 
 The centralized state power, with its ubiquitous organs of standing
 army, police, bureaucracy, clergy, and judicature – organs wrought after
@@ -3963,7 +3982,8 @@ well-known that companies, like individuals, in matters of real business
 generally know how to put the right man in the right place, and, if they
 for once make a mistake, to redress it promptly. On the other hand,
 nothing could be more foreign to the spirit of the Commune than to
-supercede universal suffrage by hierarchical investiture.[^26]
+supercede universal suffrage by hierarchical
+investiture.[^26^](#fn26){#fnref26 .footnoteRef}
 
 It is generally the fate of completely new historical creations to be
 mistaken for the counterparts of older, and even defunct, forms of
@@ -3973,16 +3993,16 @@ a reproduction of the medieval Communes, which first preceded, and
 afterward became the substratum of, that very state power. The Communal
 Constitution has been mistaken for an attempt to break up into the
 federation of small states, as dreamt of by Montesquieu and the
-Girondins[^27], that unity of great nations which, if originally brought
-about by political force, has now become a powerful coefficient of
-social production. The antagonism of the Commune against the state power
-has been mistaken for an exaggerated form of the ancient struggle
-against over-centralization. Peculiar historical circumstances may have
-prevented the classical development, as in France, of the bourgeois form
-of government, and may have allowed, as in England, to complete the
-great central state organs by corrupt vestries, jobbing councillors, and
-ferocious poor-law guardians in the towns, and virtually hereditary
-magistrates in the counties.
+Girondins[^27^](#fn27){#fnref27 .footnoteRef}, that unity of great
+nations which, if originally brought about by political force, has now
+become a powerful coefficient of social production. The antagonism of
+the Commune against the state power has been mistaken for an exaggerated
+form of the ancient struggle against over-centralization. Peculiar
+historical circumstances may have prevented the classical development,
+as in France, of the bourgeois form of government, and may have allowed,
+as in England, to complete the great central state organs by corrupt
+vestries, jobbing councillors, and ferocious poor-law guardians in the
+towns, and virtually hereditary magistrates in the counties.
 
 The Communal Constitution would have restored to the social body all the
 forces hitherto absorbed by the state parasite feeding upon, and
@@ -4000,20 +4020,20 @@ involved, as a matter of course, local municipal liberty, but no longer
 as a check upon the now superseded state power. It could only enter into
 the head of a Bismarck – who, when not engaged on his intrigues of blood
 and iron, always likes to resume his old trade, so befitting his mental
-calibre, of contributor to *Kladderadatsch* (the Berlin *Punch*[^28]) –
-it could only enter into such a head to ascribe to the Paris Commune
-aspirations after the caricature of the old French municipal
-organization of 1791, the Prussian municipal constitution which degrades
-the town governments to mere secondary wheels in the police machinery of
-the Prussian state. The Commune made that catchword of bourgeois
-revolutions – cheap government – a reality by destroying the two
-greatest sources of expenditure: the standing army and state
-functionarism. Its very existence presupposed the non-existence of
-monarchy, which, in Europe at least, is the normal encumbrance and
-indispensable cloak of class rule. It supplied the republic with the
-basis of really democratic institutions. But neither cheap government
-nor the “true republic” was its ultimate aim; they were its mere
-concomitants.
+calibre, of contributor to *Kladderadatsch* (the Berlin
+*Punch*[^28^](#fn28){#fnref28 .footnoteRef}) – it could only enter into
+such a head to ascribe to the Paris Commune aspirations after the
+caricature of the old French municipal organization of 1791, the
+Prussian municipal constitution which degrades the town governments to
+mere secondary wheels in the police machinery of the Prussian state. The
+Commune made that catchword of bourgeois revolutions – cheap government
+– a reality by destroying the two greatest sources of expenditure: the
+standing army and state functionarism. Its very existence presupposed
+the non-existence of monarchy, which, in Europe at least, is the normal
+encumbrance and indispensable cloak of class rule. It supplied the
+republic with the basis of really democratic institutions. But neither
+cheap government nor the “true republic” was its ultimate aim; they were
+its mere concomitants.
 
 The multiplicity of interpretations to which the Commune has been
 subjected, and the multiplicity of interests which construed it in their
@@ -4081,20 +4101,21 @@ hands; when plain working men for the first time dared to infringe upon
 the governmental privilege of their “natural superiors,” and, under
 circumstances of unexampled difficulty, performed it at salaries the
 highest of which barely amounted to one-fifth what, according to high
-scientific authority[^29], is the minimum required for a secretary to a
-certain metropolitan school-board – the old world writhed in convulsions
-of rage at the sight of the Red Flag, the symbol of the Republic of
-Labor, floating over the Hôtel de Ville.
+scientific authority[^29^](#fn29){#fnref29 .footnoteRef}, is the minimum
+required for a secretary to a certain metropolitan school-board – the
+old world writhed in convulsions of rage at the sight of the Red Flag,
+the symbol of the Republic of Labor, floating over the Hôtel de Ville.
 
 And yet, this was the first revolution in which the working class was
 openly acknowledged as the only class capable of social initiative, even
 by the great bulk of the Paris bourgeois – shopkeepers, tradesmen,
 merchants – the wealthy capitalist alone excepted. The Commune had saved
 them by a sagacious settlement of that ever recurring cause of dispute
-among the bourgeois themselves – the debtor and creditor accounts.[^30]
-The same portion of the bourgeois, after they had assisted in putting
-down the working men’s insurrection of June 1848, had been at once
-unceremoniously sacrificed to their creditors[^31] by the then
+among the bourgeois themselves – the debtor and creditor
+accounts.[^30^](#fn30){#fnref30 .footnoteRef} The same portion of the
+bourgeois, after they had assisted in putting down the working men’s
+insurrection of June 1848, had been at once unceremoniously sacrificed
+to their creditors[^31^](#fn31){#fnref31 .footnoteRef} by the then
 Constituent Assembly. But this was not their only motive for now
 rallying around the working class. They felt there was but one
 alternative – the Commune, or the empire – under whatever name it might
@@ -4104,47 +4125,47 @@ the props it lent to the artificially accelerated centralization of
 capital, and the concomitant expropriation of their own ranks. It had
 suppressed them politically, it had shocked them morally by its orgies,
 it had insulted their Voltairianism by handing over the education of
-their children to the *fréres Ignorantins*,[^32] it had revolted their
-national feeling as Frenchmen by precipitating them headlong into a war
-which left only one equivalent for the ruins it made – the disappearance
-of the empire. In fact, after the exodus from Paris of the high
-Bonapartist and capitalist *boheme*, the true bourgeois Party of Order
-came out in the shape of the “Union Republicaine,”[^33] enrolling
-themselves under the colors of the Commune and defending it against the
-wilful misconstructions of Thiers. Whether the gratitude of this great
-body of the bourgeois will stand the present severe trial, time must
-show.
+their children to the *fréres Ignorantins*,[^32^](#fn32){#fnref32
+.footnoteRef} it had revolted their national feeling as Frenchmen by
+precipitating them headlong into a war which left only one equivalent
+for the ruins it made – the disappearance of the empire. In fact, after
+the exodus from Paris of the high Bonapartist and capitalist *boheme*,
+the true bourgeois Party of Order came out in the shape of the “Union
+Republicaine,”[^33^](#fn33){#fnref33 .footnoteRef} enrolling themselves
+under the colors of the Commune and defending it against the wilful
+misconstructions of Thiers. Whether the gratitude of this great body of
+the bourgeois will stand the present severe trial, time must show.
 
 The Commune was perfectly right in telling the peasants that “its
 victory was their only hope.” Of all the lies hatched at Versailles and
 re-echoed by the glorious European penny-a-liner, one of the most
 tremendous was that the Rurals represented the French peasantry. Think
 only of the love of the French peasant for the men to whom, after 1815,
-he had to pay the milliard indemnity.[^34] In the eyes of the French
-peasant, the very existence of a great landed proprietor is in itself an
-encroachment on his conquests of 1789. The bourgeois, in 1848, had
-burdened his plot of land with the additional tax of 45 cents, in the
-franc; but then he did so in the name of the revolution; while now he
-had fomented a civil war against revolution, to shift on to the
-peasant’s shoulders the chief load of the 5 milliards of indemnity to be
-paid to the Prussian. The Commune, on the other hand, in one of its
-first proclamations, declared that the true originators of the war would
-be made to pay its cost. The Commune would have delivered the peasant of
-the blood tax – would have given him a cheap government – transformed
-his present blood-suckers, the notary, advocate, executor, and other
-judicial vampires, into salaried communal agents, elected by, and
-responsible to, himself. It would have freed him of the tyranny of the
-*garde champetre*, the gendarme, and the prefect; would have put
-enlightenment by the schoolmaster in the place of stultification by the
-priest. And the French peasant is, above all, a man of reckoning. He
-would find it extremely reasonable that the pay of the priest, instead
-of being extorted by the tax-gatherer, should only depend upon the
-spontaneous action of the parishioners’ religious instinct. Such were
-the great immediate boons which the rule of the Commune – and that rule
-alone – held out to the French peasantry. It is, therefore, quite
-superfluous here to expatiate upon the more complicated but vital
-problems which the Commune alone was able, and at the same time
-compelled, to solve in favor of the peasant – viz., the hypothecary
+he had to pay the milliard indemnity.[^34^](#fn34){#fnref34
+.footnoteRef} In the eyes of the French peasant, the very existence of a
+great landed proprietor is in itself an encroachment on his conquests of
+1789. The bourgeois, in 1848, had burdened his plot of land with the
+additional tax of 45 cents, in the franc; but then he did so in the name
+of the revolution; while now he had fomented a civil war against
+revolution, to shift on to the peasant’s shoulders the chief load of the
+5 milliards of indemnity to be paid to the Prussian. The Commune, on the
+other hand, in one of its first proclamations, declared that the true
+originators of the war would be made to pay its cost. The Commune would
+have delivered the peasant of the blood tax – would have given him a
+cheap government – transformed his present blood-suckers, the notary,
+advocate, executor, and other judicial vampires, into salaried communal
+agents, elected by, and responsible to, himself. It would have freed him
+of the tyranny of the *garde champetre*, the gendarme, and the prefect;
+would have put enlightenment by the schoolmaster in the place of
+stultification by the priest. And the French peasant is, above all, a
+man of reckoning. He would find it extremely reasonable that the pay of
+the priest, instead of being extorted by the tax-gatherer, should only
+depend upon the spontaneous action of the parishioners’ religious
+instinct. Such were the great immediate boons which the rule of the
+Commune – and that rule alone – held out to the French peasantry. It is,
+therefore, quite superfluous here to expatiate upon the more complicated
+but vital problems which the Commune alone was able, and at the same
+time compelled, to solve in favor of the peasant – viz., the hypothecary
 debt, lying like an incubus upon his parcel of soil, the *prolétariat
 foncier* (the rural proletariat), daily growing upon it, and his
 expropriation from it enforced, at a more and more rapid rate, by the
@@ -4197,7 +4218,7 @@ head of the defenders of Paris. And, to broadly mark the new era of
 history it was conscious of initiating, under the eyes of the conquering
 Prussians on one side, and the Bonapartist army, led by Bonapartist
 generals, on the other, the Commune pulled down that colossal symbol of
-martial glory, the Vendôme Column.[^35]
+martial glory, the Vendôme Column.[^35^](#fn35){#fnref35 .footnoteRef}
 
 The great social measure of the Commune was its own working existence.
 Its special measures could but betoken the tendency of a government of
@@ -4215,12 +4236,12 @@ The financial measures of the Commune, remarkable for their sagacity and
 moderation, could only be such as were compatible with the state of a
 besieged town. Considering the colossal robberies committed upon the
 city of Paris by the great financial companies and contractors, under
-the protection of Haussman,[^36] the Commune would have had an
-incomparably better title to confiscate their property than Louis
-Napoleon had against the Orleans family. The Hohenzollern and the
-English oligarchs, who both have derived a good deal of their estates
-from church plunders, were, of course, greatly shocked at the Commune
-clearing but 8,000f out of secularization.
+the protection of Haussman,[^36^](#fn36){#fnref36 .footnoteRef} the
+Commune would have had an incomparably better title to confiscate their
+property than Louis Napoleon had against the Orleans family. The
+Hohenzollern and the English oligarchs, who both have derived a good
+deal of their estates from church plunders, were, of course, greatly
+shocked at the Commune clearing but 8,000f out of secularization.
 
 While the Versailles government, as soon as it had recovered some spirit
 and strength, used the most violent means against the Commune; while it
@@ -4243,21 +4264,22 @@ papers at Versailles.
 It was irritating indeed to the Rurals that at the very same time they
 declared the return to the church to be the only means of salvation for
 France, the infidel Commune unearthed the peculiar mysteries of the
-Picpus nunnery[^37], and of the Church of St. Laurent. It was a satire
-upon M. Thiers that, while he showered grand crosses upon the
-Bonapartist generals in acknowledgment of their mastery in losing
-battles, singing capitulations, and turning cigarettes at
-Wilhelmshöhe,[^38] the Commune dismissed and arrested its generals
-whenever they were suspected of neglecting their duties. The expulsion
-from, and arrest by, the Commune of one of its members \[Blanchet\] who
-had slipped in under a false name, and had undergone at Lyons six days’
-imprisonment for simple bankruptcy, was it not a deliberate insult
-hurled at the forger, Jules Favre, then still the foreign minister of
-France, still selling France to Bismarck, and still dictating his orders
-to that paragon government of Belgium? But indeed the Commune did not
-pretend to infallibility, the invariable attribute of all governments of
-the old stamp. It published its doings and sayings, it initiated the
-public into all its shortcomings.
+Picpus nunnery[^37^](#fn37){#fnref37 .footnoteRef}, and of the Church of
+St. Laurent. It was a satire upon M. Thiers that, while he showered
+grand crosses upon the Bonapartist generals in acknowledgment of their
+mastery in losing battles, singing capitulations, and turning cigarettes
+at Wilhelmshöhe,[^38^](#fn38){#fnref38 .footnoteRef} the Commune
+dismissed and arrested its generals whenever they were suspected of
+neglecting their duties. The expulsion from, and arrest by, the Commune
+of one of its members \[Blanchet\] who had slipped in under a false
+name, and had undergone at Lyons six days’ imprisonment for simple
+bankruptcy, was it not a deliberate insult hurled at the forger, Jules
+Favre, then still the foreign minister of France, still selling France
+to Bismarck, and still dictating his orders to that paragon government
+of Belgium? But indeed the Commune did not pretend to infallibility, the
+invariable attribute of all governments of the old stamp. It published
+its doings and sayings, it initiated the public into all its
+shortcomings.
 
 In every revolution there intrude, at the side of its true agents, men
 of different stamp; some of them survivors of and devotees to past
@@ -4275,12 +4297,12 @@ are shaken off; but time was not allowed to the Commune.
 
 Wonderful, indeed, was the change the Commune had wrought in Paris! No
 longer any trace of the tawdry Paris of the Second Empire! No longer was
-Paris the rendezvous of British landlords, Irish absentees,[^39]
-American ex-slaveholders and shoddy men, Russian ex-serfowners, and
-Wallachian boyards. No more corpses at the morgue, no nocturnal
-burglaries, scarcely any robberies; in fact, for the first time since
-the days of February 1848, the streets of Paris were safe, and that
-without any police of any kind.
+Paris the rendezvous of British landlords, Irish
+absentees,[^39^](#fn39){#fnref39 .footnoteRef} American ex-slaveholders
+and shoddy men, Russian ex-serfowners, and Wallachian boyards. No more
+corpses at the morgue, no nocturnal burglaries, scarcely any robberies;
+in fact, for the first time since the days of February 1848, the streets
+of Paris were safe, and that without any police of any kind.
 
 “We,” said a member of the Commune, “hear no longer of assassination,
 theft, and personal assault; it seems indeed as if the police had
@@ -4301,11 +4323,11 @@ of antediluvian republicans, sanctioning, by their presence in the
 Assembly, the slaveholders’ rebellion, relying for the maintenance of
 their parliamentary republic upon the vanity of the senile mountebank at
 its head, and caricaturing 1789 by holding their ghastly meetings in the
-*Jeu de Paume.*[^40] There it was, this Assembly, the representative of
-everything dead in France, propped up to the semblance of life by
-nothing but the swords of the generals of Louis Bonaparte. Paris all
-truth, Versailles all lie; and that lie vented through the mouth of
-Thiers.
+*Jeu de Paume.*[^40^](#fn40){#fnref40 .footnoteRef} There it was, this
+Assembly, the representative of everything dead in France, propped up to
+the semblance of life by nothing but the swords of the generals of Louis
+Bonaparte. Paris all truth, Versailles all lie; and that lie vented
+through the mouth of Thiers.
 
 Thiers tells a deputation of the mayors of the Seine-et-Oise – “You may
 rely upon my word, which I have never broken!”
@@ -4326,41 +4348,58 @@ that, in fact, the Paris of the Commune was “but a handful of
 criminals.”
 
 The Paris of M. Thiers was not the real Paris of the “vile multitude,”
-but a phantom Paris, the Paris of the *francs-fileurs*,[^41] the Paris
-of the Boulevards, male and female – the rich, the capitalist, the
-gilded, the idle Paris, now thronging with its lackeys, its blacklegs,
-its literary *bohome*, and its *cocottes* at Versailles, Saint-Denis,
-Rueil, and Saint-Germain; considering the civil war but an agreeable
-diversion, eyeing the battle going on through telescopes, counting the
-rounds of cannon, swearing by their own honour and that of their
-prostitutes, that the performance was far better got up than it used to
-be at the Porte St. Martin. The men who fell were really dead; the cries
-of the wounded were cries in good earnest; and, besides, the whole thing
-was so intensely historical.
+but a phantom Paris, the Paris of the
+*francs-fileurs*,[^41^](#fn41){#fnref41 .footnoteRef} the Paris of the
+Boulevards, male and female – the rich, the capitalist, the gilded, the
+idle Paris, now thronging with its lackeys, its blacklegs, its literary
+*bohome*, and its *cocottes* at Versailles, Saint-Denis, Rueil, and
+Saint-Germain; considering the civil war but an agreeable diversion,
+eyeing the battle going on through telescopes, counting the rounds of
+cannon, swearing by their own honour and that of their prostitutes, that
+the performance was far better got up than it used to be at the Porte
+St. Martin. The men who fell were really dead; the cries of the wounded
+were cries in good earnest; and, besides, the whole thing was so
+intensely historical.
 
 This is the Paris of M. Thiers, as the emigration of Coblenz was the
-France of M. de Calonne.[^42]
+France of M. de Calonne.[^42^](#fn42){#fnref42 .footnoteRef}
 
 Endnotes
 --------
 
-[^1]: The first Russian translation of the Manifesto of the Communist
+<div class="footnotes">
+
+------------------------------------------------------------------------
+
+1.  <div id="fn1">
+
+    </div>
+
+    The first Russian translation of the Manifesto of the Communist
     Party was made by Bakunin, who despite being one of Marx and Engels’
     most pronounced opponents in the working class movement, saw the
     great revolutionary importance contained within the *Manifesto*.
     Published in Geneva in 1869 (printing it in Russia was impossible
     due to state censorship), Bakunin’ s translation was not completely
     accurate, and was replaced a decade later by Plekhanov’s translation
-    in 1882, for which both Marx and Engels wrote a preface.
+    in 1882, for which both Marx and Engels wrote a preface.[↩](#fnref1)
 
-[^2]: A reference to the events that occurred in Russia after the
+2.  <div id="fn2">
+
+    </div>
+
+    A reference to the events that occurred in Russia after the
     assassination, on March, 1, 1881, of Emperor Alexander II by
     [Narodnaya
-    Volya](../../../../../glossary/orgs/n/a.htm#narodnaia-volia)
-    members. Alexander III, his successor, was staying in Gatchina for
-    fear of further terrorism.
+    Volya](../../../../../glossary/orgs/n/a.htm#narodnaia-volia) members.
+    Alexander III, his successor, was staying in Gatchina for fear of
+    further terrorism.[↩](#fnref2)
 
-[^3]: ^\*^ “This proposition,” I wrote in the preface to the English
+3.  <div id="fn3">
+
+    </div>
+
+    ^\*^ “This proposition,” I wrote in the preface to the English
     translation, “which, in my opinion, is destined to do for history
     what Darwin’ s theory has done for biology, we both of us, had been
     gradually approaching for some years before 1845. How far I had
@@ -4368,24 +4407,37 @@ Endnotes
     of the Working Class in England. But when I again met Marx at
     Brussels, in spring 1845, he had it already worked out and put it
     before me in terms almost as clear as those in which I have stated
-    it here.” \[Note by Engels to the German edition of 1890\]
+    it here.” \[Note by Engels to the German edition of
+    1890\][↩](#fnref3)
 
-[^4]: ^\*^ [Lassalle](../../../../../glossary/people/l/a.htm#lassalle)
+4.  <div id="fn4">
+
+    </div>
+
+    ^\*^ [Lassalle](../../../../../glossary/people/l/a.htm#lassalle)
     personally, to us, always acknowledged himself to be a disciple of
     Marx, and, as such, stood on the ground of the Manifesto. But in his
     first public agitation, 1862-1864, he did not go beyond demanding
-    co-operative workshops supported by state credit.
+    co-operative workshops supported by state credit.[↩](#fnref4)
 
-[^5]: This preface was written by Engels on May 1, 1890, when, in
+5.  <div id="fn5">
+
+    </div>
+
+    This preface was written by Engels on May 1, 1890, when, in
     accordance with the decision of the Paris Congress of the Second
     International (July 1889), mass demonstrations, strikes and meetings
     were held in numerous European and American countries. The workers
     put forward the demand for an 8 hour working day and other demands
     set forth by the Congress. From that day forward workers all over
     the world celebrate the first of May as a day of international
-    proletarian solidarity.
+    proletarian solidarity.[↩](#fnref5)
 
-[^6]: ^\*^ By
+6.  <div id="fn6">
+
+    </div>
+
+    ^\*^ By
     [bourgeoisie](http://www.marxists.org/glossary/terms/b/o.htm#bourgeoisie)
     is meant the class of modern capitalists, owners of the [means of
     social
@@ -4397,87 +4449,128 @@ Endnotes
     who, having no means of production of their own, are reduced to
     selling their [labour
     power](http://www.marxists.org/glossary/terms/l/a.htm#labour-power)
-    in order to live. \[Engels, 1888 English edition\]
+    in order to live. \[Engels, 1888 English edition\][↩](#fnref6)
 
-[^7]: ^†^ That is, all written history. In 1847, the pre-history of
+7.  <div id="fn7">
+
+    </div>
+
+    ^†^ That is, all written history. In 1847, the pre-history of
     society, the social organisation existing previous to recorded
-    history, all but unknown. Since then, August von Haxthausen
-    (1792-1866) discovered common ownership of land in Russia, Georg
-    Ludwig von Maurer proved it to be the social foundation from which
-    all Teutonic races started in history, and, by and by, village
-    communities were found to be, or to have been, the primitive form of
-    society everywhere from India to Ireland. The inner organisation of
-    this primitive communistic society was laid bare, in its typical
-    form, by Lewis Henry Morgan's (1818-1861) crowning discovery of the
-    true nature of the gens and its relation to the tribe. With the
-    dissolution of the primeval communities, society begins to be
-    differentiated into separate and finally antagonistic classes. I
-    have attempted to retrace this dissolution in [The Origin of the
-    Family, Private Property, and the
+    history, all but unknown. Since then, August von
+    Haxthausen (1792-1866) discovered common ownership of land in
+    Russia, Georg Ludwig von Maurer proved it to be the social
+    foundation from which all Teutonic races started in history, and, by
+    and by, village communities were found to be, or to have been, the
+    primitive form of society everywhere from India to Ireland. The
+    inner organisation of this primitive communistic society was laid
+    bare, in its typical form, by Lewis Henry Morgan's (1818-1861)
+    crowning discovery of the true nature of the gens and its relation
+    to the tribe. With the dissolution of the primeval communities,
+    society begins to be differentiated into separate and finally
+    antagonistic classes. I have attempted to retrace this dissolution
+    in [The Origin of the Family, Private Property, and the
     State](http://www.marxists.org/archive/marx/works/1884/origin-family/index.htm),
     second edition, Stuttgart, 1886. \[Engels, 1888 English Edition and
-    1890 German Edition (with the last sentence omitted)\]
+    1890 German Edition (with the last sentence omitted)\][↩](#fnref7)
 
-[^8]: ^‡^ Guild-master, that is, a full member of a guild, a master
-    within, not a head of a guild. \[Engels, 1888 English Edition\]
+8.  <div id="fn8">
 
-[^9]: ^\*^ This was the name given their urban communities by the
-    townsmen of Italy and France, after they had purchased or conquered
-    their initial rights of self-government from their feudal lords.
-    \[Engels, 1890 German edition\] “Commune” was the name taken in
-    France by the nascent towns even before they had conquered from
-    their feudal lords and masters local self-government and political
-    rights as the “Third Estate.” Generally speaking, for the economical
-    development of the bourgeoisie, England is here taken as the typical
-    country, for its political development, France. \[Engels, 1888
-    English Edition\]
+    </div>
 
-[^10]: A reference to the movement for an electoral reform which, under
-    the pressure of the working class, was passed by the British House
-    of Commons in 1831 and finally endorsed by the House of Lords in
+    ^‡^ Guild-master, that is, a full member of a guild, a master
+    within, not a head of a guild. \[Engels, 1888 English
+    Edition\][↩](#fnref8)
+
+9.  <div id="fn9">
+
+    </div>
+
+    ^\*^ This was the name given their urban communities by the townsmen
+    of Italy and France, after they had purchased or conquered their
+    initial rights of self-government from their feudal lords. \[Engels,
+    1890 German edition\] “Commune” was the name taken in France by the
+    nascent towns even before they had conquered from their feudal lords
+    and masters local self-government and political rights as the “Third
+    Estate.” Generally speaking, for the economical development of the
+    bourgeoisie, England is here taken as the typical country, for its
+    political development, France. \[Engels, 1888 English
+    Edition\][↩](#fnref9)
+
+10. <div id="fn10">
+
+    </div>
+
+    A reference to the movement for an electoral reform which, under the
+    pressure of the working class, was passed by the British House of
+    Commons in 1831 and finally endorsed by the House of Lords in
     June, 1832. The reform was directed against monopoly rule of the
     landed and finance aristocracy and opened the way to Parliament for
     the representatives of the industrial bourgeoisie. Neither workers
     nor the petty-bourgeois were allowed electoral rights, despite
-    assurances they would.
+    assurances they would.[↩](#fnref10)
 
-[^11]: ^\*^ Not the English Restoration (1660-1689), but the French
+11. <div id="fn11">
+
+    </div>
+
+    ^\*^ Not the English Restoration (1660-1689), but the French
     Restoration (1814-1830). \[Note by Engels to the English edition of
-    1888.\]
+    1888.\][↩](#fnref11)
 
-[^12]: ^†^ This applies chiefly to Germany, where the landed aristocracy
+12. <div id="fn12">
+
+    </div>
+
+    ^†^ This applies chiefly to Germany, where the landed aristocracy
     and squirearchy have large portions of their estates cultivated for
     their own account by stewards, and are, moreover, extensive
     beetroot-sugar manufacturers and distillers of potato spirits. The
     wealthier British aristocracy are, as yet, rather above that; but
     they, too, know how to make up for declining rents by lending their
     names to floaters or more or less shady joint-stock companies.
-    \[Note by Engels to the English edition of 1888.\]
+    \[Note by Engels to the English edition of 1888.\][↩](#fnref12)
 
-[^13]: ^\*^ The revolutionary storm of 1848 swept away this whole shabby
-    tendency and cured its protagonists of the desire to dabble in
-    socialism. The chief representative and classical type of this
+13. <div id="fn13">
+
+    </div>
+
+    ^\*^ The revolutionary storm of 1848 swept away this whole shabby
+    tendency and cured its protagonists of the desire to dabble
+    in socialism. The chief representative and classical type of this
     tendency is Mr Karl Gruen. \[Note by Engels to the German edition of
-    1890.\]
+    1890.\][↩](#fnref13)
 
-[^14]: ^\*^ *Phalanstéres* were Socialist colonies on the plan of
-    Charles Fourier; *Icaria* was the name given by Cabet to his Utopia
-    and, later on, to his American Communist colony. \[Note by Engels to
-    the English edition of 1888.\] <span id="196" class="anchor"></span>
+14. <div id="fn14">
+
+    </div>
+
+    ^\*^ *Phalanstéres* were Socialist colonies on the plan of Charles
+    Fourier; *Icaria* was the name given by Cabet to his Utopia and,
+    later on, to his American Communist colony. \[Note by Engels to the
+    English edition of 1888.\] <span id="196" class="anchor"></span>
 
     “Home Colonies” were what Owen called his Communist model societies.
-    *Phalanstéres* was the name of the public palaces planned by
-    Fourier. *Icaria* was the name given to the Utopian land of fancy,
-    whose Communist institutions Cabet portrayed. \[Note by Engels to
-    the German edition of 1890.\]
+    *Phalanstéres* was the name of the public palaces planned
+    by Fourier. *Icaria* was the name given to the Utopian land of
+    fancy, whose Communist institutions Cabet portrayed. \[Note by
+    Engels to the German edition of 1890.\][↩](#fnref14)
 
-[^15]: ^\*^ The party then represented in Parliament by Ledru-Rollin, in
+15. <div id="fn15">
+
+    </div>
+
+    ^\*^ The party then represented in Parliament by Ledru-Rollin, in
     literature by Louis Blanc, in the daily press by the *Réforme*. The
     name of Social-Democracy signifies, with these its inventors, a
     section of the Democratic or Republican Party more or less tinged
-    with socialism. \[Engels, English Edition 1888\]
+    with socialism. \[Engels, English Edition 1888\][↩](#fnref15)
 
-[^16]: The famous final phrase of the Manifesto, “Working Men of All
+16. <div id="fn16">
+
+    </div>
+
+    The famous final phrase of the Manifesto, “Working Men of All
     Countries, Unite!”, in the original German is: “*Proletarier aller
     Länder, vereinigt euch!*” Thus, a more correct translation would be
     “Proletarians of all countries, Unite!”
@@ -4485,45 +4578,78 @@ Endnotes
     “Workers of the World, Unite. You have nothing to lose but your
     chains!” is a popularisation of the last three sentences, and is not
     found in any official translation. Since this English translation
-    was approved by Engels, we have kept the original intact.
+    was approved by Engels, we have kept the original
+    intact.[↩](#fnref16)
 
-[^17]: ^\*^ From MECW Volume 38, p. 146; Written: 24 November 1847;
-    First published: in *Der Briefwechsel zwischen F. Engels und K.
-    Marx*, 1913.
+17. <div id="fn17">
 
-[^18]: ^\*^ From *MECW* Volume 6, p. 92; written by Engels, June 9 1847;
+    </div>
+
+    ^\*^ From MECW Volume 38, p. 146; Written: 24 November 1847; First
+    published: in *Der Briefwechsel zwischen F. Engels und K. Marx*,
+    1913.[↩](#fnref17)
+
+18. <div id="fn18">
+
+    </div>
+
+    ^\*^ From *MECW* Volume 6, p. 92; written by Engels, June 9 1847;
     first published in *Gründungsdokumente des Bundes der Kommunisten*,
     Hamburg, 1969, in English in *Birth of the Communist Manifesto*,
-    International Publishers, 1971.
+    International Publishers, 1971.[↩](#fnref18)
 
-[^19]: ^\*^ Written: October-November 1847; Source: Selected Works,
-    Volume One, p. 81-97, Progress Publishers, Moscow, 1969; first
-    published: 1914, by Eduard Bernstein in the German Social Democratic
-    Party’s *Vorwärts!*; translated: Paul Sweezy; Transcribed: Zodiac,
-    MEA 1993; marxists.org 1999; proofed and corrected by Andy Blunden,
+19. <div id="fn19">
+
+    </div>
+
+    ^\*^ Written: October-November 1847; Source: Selected Works, Volume
+    One, p. 81-97, Progress Publishers, Moscow, 1969; first published:
+    1914, by Eduard Bernstein in the German Social Democratic Party’s
+    *Vorwärts!*; translated: Paul Sweezy; Transcribed: Zodiac, MEA 1993;
+    marxists.org 1999; proofed and corrected by Andy Blunden,
     February 2005. Footnotes are from the Chinese Edition of Marx/Engels
     Selected Works Peking, Foreign Languages Press, 1977, with editorial
-    additions by marxists.org.
+    additions by marxists.org.[↩](#fnref19)
 
-[^20]: In their works written in later periods, Marx and Engels
-    substituted the more accurate concepts of “sale of labour power”,
-    “value of labour power” and “price of labour power” (first
-    introduced by Marx) for “sale of labour”, “value of labour” and
-    “price of labour”, as used here.
+20. <div id="fn20">
 
-[^21]: Engels left half a page blank here in the manuscript. The “Draft
-    of the Communist Confession of Faith,” has the answer shown for the
-    same question (Number 12).
+    </div>
 
-[^22]: Engels’ put “unchanged” here, referring to the answer in the June
-    draft under No. 21 as shown.
+    In their works written in later periods, Marx and Engels substituted
+    the more accurate concepts of “sale of labour power”, “value of
+    labour power” and “price of labour power” (first introduced by Marx)
+    for “sale of labour”, “value of labour” and “price of labour”, as
+    used here.[↩](#fnref20)
 
-[^23]: Similarly, this refers to the answer to Question 23 in the June
-    draft.
+21. <div id="fn21">
 
-[^24]: The Chartists were the participants in the political movement of
-    the British workers which lasted from the 1830s to the middle 1850s
-    and had as its slogan the adoption of a People’s Charter, demanding
+    </div>
+
+    Engels left half a page blank here in the manuscript. The “Draft of
+    the Communist Confession of Faith,” has the answer shown for the
+    same question (Number 12).[↩](#fnref21)
+
+22. <div id="fn22">
+
+    </div>
+
+    Engels’ put “unchanged” here, referring to the answer in the June
+    draft under No. 21 as shown.[↩](#fnref22)
+
+23. <div id="fn23">
+
+    </div>
+
+    Similarly, this refers to the answer to Question 23 in the June
+    draft.[↩](#fnref23)
+
+24. <div id="fn24">
+
+    </div>
+
+    The Chartists were the participants in the political movement of the
+    British workers which lasted from the 1830s to the middle 1850s and
+    had as its slogan the adoption of a People’s Charter, demanding
     universal franchise and a series of conditions guaranteeing voting
     rights for all workers. Lenin defined Chartism as the world’s “first
     broad, truly mass and politically organized proletarian
@@ -4535,97 +4661,173 @@ Endnotes
     British bourgeoisie out of its super-profits. Both factors led to
     the strengthening of opportunist tendencies in this stratum as
     expressed, in particular, by the refusal of the trade union leaders
-    to support Chartism.
+    to support Chartism.[↩](#fnref24)
 
-[^25]: Probably a references to the National Reform Association, founded
+25. <div id="fn25">
+
+    </div>
+
+    Probably a references to the National Reform Association, founded
     during the 1840s by George H. Evans, with headquarters in New York
-    City, which had for its motto, “Vote Yourself a Farm”.
+    City, which had for its motto, “Vote Yourself a Farm”.[↩](#fnref25)
 
-[^26]: A top-down system of appointing officials in bourgeois systems,
-    where high-up officials appoint many or all lower officials.
+26. <div id="fn26">
 
-[^27]: Girondins – The party of the influential bourgeoisie during the
+    </div>
+
+    A top-down system of appointing officials in bourgeois systems,
+    where high-up officials appoint many or all lower
+    officials.[↩](#fnref26)
+
+27. <div id="fn27">
+
+    </div>
+
+    Girondins – The party of the influential bourgeoisie during the
     French revolution at the end of the 18th century. (The name is
     derived from the Department of Gironde.) It came out against the
     Jacobin government and the revolutionary masses which supported it,
     under the banner of defending the departments’ right to autonomy and
-    federation.
+    federation.[↩](#fnref27)
 
-[^28]: The party of the influential bourgeoisie during the French
+28. <div id="fn28">
+
+    </div>
+
+    The party of the influential bourgeoisie during the French
     revolution at the end of the 18th century. (The name is derived from
     the Department of Gironde.) It came out against the Jacobin
     government and the revolutionary masses which supported it, under
     the banner of defending the departments’ right to autonomy and
-    federation.
+    federation.[↩](#fnref28)
 
-[^29]: ^\*^ Professor Huxley. \[Note to the German addition of 1871.\]
+29. <div id="fn29">
 
-[^30]: A reference to the Paris Commune’s decree of April 16, 1871,
+    </div>
+
+    ^\*^ Professor Huxley. \[Note to the German addition of
+    1871.\][↩](#fnref29)
+
+30. <div id="fn30">
+
+    </div>
+
+    A reference to the Paris Commune’s decree of April 16, 1871,
     providing for payment of all debts in instalments over three years
-    and abolition of interest on them.
+    and abolition of interest on them.[↩](#fnref30)
 
-[^31]: On Aug. 22, 1848, the Constituent Assembly rejected the bill on
+31. <div id="fn31">
+
+    </div>
+
+    On Aug. 22, 1848, the Constituent Assembly rejected the bill on
     “amiable agreements” (*concordats á l’amiable*) aimed to introduce
     the deferred payment of debts. As a result of this measure, a
     considerable section of the petty-bourgeoisie were utterly ruined
     and found themselves completely dependent on the creditors of the
-    richest bourgeoisie.
+    richest bourgeoisie.[↩](#fnref31)
 
-[^32]: *Fréres Ignorantins* – Ignorant Brothers, a nickname for a
-    religious order, founded in Rheims in 1680, whose members pledged
-    themselves to educate children of the poor. The pupils received a
-    predominantly religious education and barely any knowledge
-    otherwise.
+32. <div id="fn32">
 
-[^33]: *Alliance républicaine des Départements* – a political
-    association of petty-bourgeois representatives from the various
-    departments of France, who lived in Paris; calling on the people to
-    fight against the Versailles government and the monarchist National
-    Assembly and to support the Commune throughout the country.
+    </div>
 
-[^34]: The law of April 27, 1825 on the payment of compensation to the
+    *Fréres Ignorantins* – Ignorant Brothers, a nickname for a religious
+    order, founded in Rheims in 1680, whose members pledged themselves
+    to educate children of the poor. The pupils received a predominantly
+    religious education and barely any knowledge otherwise.[↩](#fnref32)
+
+33. <div id="fn33">
+
+    </div>
+
+    *Alliance républicaine des Départements* – a political association
+    of petty-bourgeois representatives from the various departments of
+    France, who lived in Paris; calling on the people to fight against
+    the Versailles government and the monarchist National Assembly and
+    to support the Commune throughout the country.[↩](#fnref33)
+
+34. <div id="fn34">
+
+    </div>
+
+    The law of April 27, 1825 on the payment of compensation to the
     former émigrés for the landed states confiscated from them during
-    the preceding French Revolution.
+    the preceding French Revolution.[↩](#fnref34)
 
-[^35]: The Vendôme Column was erected between 1806 and 1810 in Paris in
+35. <div id="fn35">
+
+    </div>
+
+    The Vendôme Column was erected between 1806 and 1810 in Paris in
     honour of the victories of Napoleonic France; it was made out of the
-    bronze captured from enemy guns and was crowned by a statue of
-    Napoleon. On May 16, 1871, by order of the Paris Commune, the
-    Vendôme Column was pulled down.
+    bronze captured from enemy guns and was crowned by a statue
+    of Napoleon. On May 16, 1871, by order of the Paris Commune, the
+    Vendôme Column was pulled down.[↩](#fnref35)
 
-[^36]: During the Second Empire, Baron Haussmann was Prefect of the
+36. <div id="fn36">
+
+    </div>
+
+    During the Second Empire, Baron Haussmann was Prefect of the
     Department of the Seine (the City of Paris). He introduced a number
     of changes in the layout of the city for the purpose of crushing
-    workers’ revolts.
+    workers’ revolts.[↩](#fnref36)
 
-[^37]: In the Picpus nunnery cases of the nuns being incarcerated in
-    cells for many years were exposed and instruments of torture were
-    found; in the church of St. Laurent a secret cemetery was found
-    attesting to the murders that had been committed there. These facts
-    were exposed by the Commune’s newspaper *Mot d’Ordre* on May 5,
-    1871, and in a pamphlet *Les Crimes des congrégations religieuses.*
+37. <div id="fn37">
 
-[^38]: The chief occupation of the French prisoners of war in
-    Wilhelmshöhe (those captured after the Battle of Sedan) was making
-    cigars for their own use.
+    </div>
 
-[^39]: Rich landowners who hardly ever visited their estates, but
-    instead had their land managed by agents or leased it to
-    petty-bourgeois who, in their turn, sub-leased the land at high
-    rents.
+    In the Picpus nunnery cases of the nuns being incarcerated in cells
+    for many years were exposed and instruments of torture were found;
+    in the church of St. Laurent a secret cemetery was found attesting
+    to the murders that had been committed there. These facts were
+    exposed by the Commune’s newspaper *Mot d’Ordre* on May 5, 1871, and
+    in a pamphlet *Les Crimes des
+    congrégations religieuses.*[↩](#fnref37)
 
-[^40]: The tennis court where the National Assembly of 1789 adopted its
-    famous decisions. \[Note to the German addition of 1871.\]
+38. <div id="fn38">
 
-[^41]: *Francs-fileurs* – literally rendered: “free absconder,” the
+    </div>
+
+    The chief occupation of the French prisoners of war in Wilhelmshöhe
+    (those captured after the Battle of Sedan) was making cigars for
+    their own use.[↩](#fnref38)
+
+39. <div id="fn39">
+
+    </div>
+
+    Rich landowners who hardly ever visited their estates, but instead
+    had their land managed by agents or leased it to petty-bourgeois
+    who, in their turn, sub-leased the land at high rents.[↩](#fnref39)
+
+40. <div id="fn40">
+
+    </div>
+
+    The tennis court where the National Assembly of 1789 adopted its
+    famous decisions. \[Note to the German addition of
+    1871.\][↩](#fnref40)
+
+41. <div id="fn41">
+
+    </div>
+
+    *Francs-fileurs* – literally rendered: “free absconder,” the
     nickname given to the Paris bourgeois who fled from the city during
     the siege. The name carried brazen historical irony as a result of
-    its resemblance to the word “*francs-tireurs*” (“free
-    sharpshooters”) – French guerrillas who actively fought against the
-    Prussians.
+    its resemblance to the word “*francs-tireurs*”
+    (“free sharpshooters”) – French guerrillas who actively fought
+    against the Prussians.[↩](#fnref41)
 
-[^42]: A city in Germany; during the French Revolution at the end of the
+42. <div id="fn42">
+
+    </div>
+
+    A city in Germany; during the French Revolution at the end of the
     18th-century it was the centre where the landlord monarchist emigrés
     made preparations for intervention against revolutionary France.
     Coblenz was the seat of the emigré government headed by the rabid
-    reactionary de Calonne, a former minister of Louis XVI.
+    reactionary de Calonne, a former minister of Louis XVI.[↩](#fnref42)
+
+</div>
