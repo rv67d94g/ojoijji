@@ -1,4 +1,4 @@
-<p class='title0'>共产党宣言</p>
+<h1 class='title'>共产党宣言</h1>
 <p class='author'>马克思 恩格斯</p>
 <p class='date'>（1848年）</p>
 <br>
