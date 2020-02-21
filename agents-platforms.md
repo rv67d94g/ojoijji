@@ -1,6 +1,6 @@
 Agent 1|Platform|Agent 2|
 ---|---|---|
-searcher|browser|search engine|
+viewer, user|browser|web content provider|
 
 
 According to [investopedia](https://www.investopedia.com/articles/investing/041315/how-mozilla-firefox-and-google-chrome-make-money.asp), Firefox makes profit from
