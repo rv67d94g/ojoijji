@@ -8,7 +8,7 @@ Adapted from https://en.wikipedia.org/wiki/Proprietary_software
 **软件协议**|PD, CC0|MIT, Apache, MPL|GPL, AGPL|JRL, AFPL|专有软件没有公共的许可证|私人的、内部的软件，没有许可证|
 **其他作品**|PD, CC0|CC-BY|CC-BY-SA|CC-BY-NC|著作权作品没有公共许可证|不出版|
 
-以下是知识共享许可协议（Creative Commons copyright licenses）的几个公共许可证。(Creative Commons)(https://creativecommons.org)简称CC。
+以下是知识共享许可协议（Creative Commons copyright licenses）的几个公共许可证。[Creative Commons](https://creativecommons.org)简称CC。
 
 ![](https://i.creativecommons.org/p/mark/1.0/88x31.png)Public Domain Mark，公有领域标记，简称PDM。任何人都可以用PDM*标记*已知不受任何司法系统保护的作品，主要是历史上的作品，比如贝多芬的乐谱和司马迁的史记。PDM只应用于标记已知不受任何司法系统保护的作品。
 
