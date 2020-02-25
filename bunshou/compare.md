@@ -14,3 +14,18 @@ Adapted from https://en.wikipedia.org/wiki/Proprietary_software
 
 ![](https://i.creativecommons.org/p/zero/1.0/88x31.png)CC0，不保留任何权利。他允许著作权的*所有者*将*自己*的作品释放到公有领域中。与PDM不同，CC0不应该用于已知不受任何司法系统保护的作品。在CC0协议下发布的作品，任何人都可以将其用于任何目的而不受任何限制。CC0赋予了作者放弃一切权利的权力。
 
+以上两个是公共领域的协议。
+
+![](https://licensebuttons.net/l/by/3.0/88x31.png)CC BY，署名。允许使用者在任何媒介以任何形式复制、发行本作品；允许使用者以任何目的（包括商业性的）修改、转换或以本作品为基础进行创作。使用者必须给出适当的署名。不得使用法律或者技术限制其他人做许可协议允许的事情。类似的软件许可协议有MIT许可。
+
+![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)CC BY-SA，署名-相同方式共享。在CC BY的基础上，基于原作品的创作必须在与原先许可协议相同（或兼容）的许可协议下分发。这意味着禁止修改原作品后以版权作品分发。类似的软件许可协议有GPL许可。BY-SA是维基百科使用的许可协议。
+
+![](https://licensebuttons.net/l/by-nd/3.0/88x31.png)CC BY-ND，署名-禁止演绎。在CC BY的基础上，不得分发基于原作品的创作。自由软件基金会将fsf.org和gnu.org都使用了BY-ND许可。这个许可证适用于表达观点的作品，如文章等。
+
+![](https://licensebuttons.net/l/by-nc/3.0/88x31.png)CC BY-NC，署名-非商业性使用。在CC BY的基础上，不得将原作品用于商业目的。
+
+还有其他几个类似的协议，都是BY、SA、ND、NC的组合。下表予以总结。
+
+CC|BY|SA|ND|NC|
+---|---|---|---|---|
+知识共享|署名|相同方式|禁止演绎|非商业
